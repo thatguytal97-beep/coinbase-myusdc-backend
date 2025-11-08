@@ -8,4 +8,4 @@ export const MAX_REQUEST_AMOUNT = 10;
 export const MIN_REQUEST_INTERVAL = 3600 // 1 hour
 
 // Initial amount to fund new wallets with
-export const INITIAL_AMOUNT = 100;
+export const INITIAL_AMOUNT = 1
